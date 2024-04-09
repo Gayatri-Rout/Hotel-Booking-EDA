@@ -1,7 +1,9 @@
 # Hotel-Booking-EDA
 
 ## Introduction
-In this report, I present an analysis of hotel booking data, focusing on the issue of high cancellation rates experienced by both City Hotel and Resort Hotel in recent years. The objective is to provide comprehensive business advice to tackle this problem effectively.
+In this report, I present an analysis of hotel booking data obtained from Kaggle, focusing on the issue of high cancellation rates experienced by both City Hotel and Resort Hotel in recent years. The objective is to provide comprehensive business advice to tackle this problem effectively.
+
+Link to Data: https://www.kaggle.com/datasets/mojtaba142/hotel-booking
 
 ## Assumptions
 1. No unusual occurrences between 2015 and 2017 significantly impact the data used.
